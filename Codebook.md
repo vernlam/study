@@ -8,7 +8,7 @@ of each activity for each person. There are 6 activities:
   5. Standing
   6. Laying
   
-Columns 4 to 83 show the method of capture.output
+Columns 4 to 83 show the method of capture. The below describes each of the columns:
 
 [1] "person"                                                        
 [2] "Activity"                                                      
