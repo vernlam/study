@@ -2,7 +2,9 @@
 title: "Analysis of Personal Movement using activity monitoring devices"
 author: "Vernon Lam"
 date: "13/02/2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 The dataset we are using is derived from activity monitoring devices such as Fitbit,
